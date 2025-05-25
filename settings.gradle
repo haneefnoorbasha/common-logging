@@ -1,0 +1,4 @@
+rootProject.name = 'common-logging'
+include 'core'
+include 'spring'
+
