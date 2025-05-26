@@ -1,0 +1,9 @@
+package com.tip.logging;
+
+public enum LoggingCode {
+    PROCESS_STARTED,
+    PROCESS_INTERMEDIATE,
+    PROCESS_ENDED,
+    PROCESS_EXCEPTED_EXCEPTION,
+    PROCESS_UNEXPECTED_EXCEPTION
+}
